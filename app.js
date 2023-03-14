@@ -13,7 +13,7 @@ class Apartment{
             this.features = features;
             this.price = price;
     }
-}
+};
 
 class Car{
     constructor(name, make, secondCondition, model, year, trim, body, drivetrain, 
@@ -39,4 +39,4 @@ class Car{
             this.price = price;
             this.negotiable = negotiable;
         }
-}
+};
